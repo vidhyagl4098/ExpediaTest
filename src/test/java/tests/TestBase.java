@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
     private WebDriver driver = null;
 
-    public WebDriver initDriver(String browser){
+    public WebDriver initDriver(String browser) throws Exception{
         DriverFactory driverFactory = new DriverFactory();
         this.driver = driverFactory.getDriver(browser);
         return this.driver;

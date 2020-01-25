@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7f2e7ab-26a6-438d-bd79-adbba19246a0" name="Default Changelist" comment="" />
+    <list default="true" id="f7f2e7ab-26a6-438d-bd79-adbba19246a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ExpediaTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ExpediaTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-tests.ExpediaTestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/ExpediaTests.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/tests.ExpediaTestSuite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.ExpediaTestSuite/ExpediaTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/tests.ExpediaTestSuite/ExpediaTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ExpediaTestSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ExpediaTestSuite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +55,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +66,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1WshIJCHoUWIRXFabhiVhC6SDD9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -64,5 +111,16 @@
       <updated>1579944128107</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

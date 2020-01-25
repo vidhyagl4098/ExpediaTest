@@ -16,7 +16,7 @@ public class ExpediaTestSuite extends TestBase{
 
     @Parameters({"browser"})
     @BeforeClass
-    public void initTest(String browser) {
+    public void initTest(String browser) throws Exception {
         driver = initDriver(browser);
         driver.get("https://amazon.co.uk");
     }
