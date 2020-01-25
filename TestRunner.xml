@@ -1,0 +1,12 @@
+<!-- This test run XML will run just the BeforeAndAfterClass. This is selected
+	by the <test> and <classes> -->
+<!-- nodes in the XML. -->
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="tests.ExpediaTestSuite">
+    <test name="ExpediaTests">
+        <classes>
+            <class name="tests.ExpediaTestSuite" />
+        </classes>
+    </test>
+</suite>
